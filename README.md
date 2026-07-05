@@ -232,7 +232,6 @@ IoT-Based-Traffic-Control-System/
 - Ritesh G. Burange
 - Raman M. Gulhane
 - Rutuja S. Avhad
-
 ---
 
 # 🙏 Acknowledgements
