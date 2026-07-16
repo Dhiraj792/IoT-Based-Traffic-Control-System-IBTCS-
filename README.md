@@ -11,7 +11,6 @@ Traffic congestion and delayed emergency response are major problems in modern c
 This project introduces an **IoT-Based Traffic Control System** that uses **ESP32**, **Arduino UNO**, **IR Sensors**, **Sound Sensors**, and **Servo Motors** to create an intelligent traffic management solution.
 
 The system:
-
 - Detects vehicle density using IR sensors
 - Dynamically adjusts signal timing
 - Detects ambulance sirens
