@@ -1,7 +1,6 @@
 # 🚦 IoT-Based Traffic Control System
 
 > An intelligent IoT-based traffic management system that dynamically controls traffic signals using real-time vehicle density, prioritizes emergency vehicles, operates a smart speed breaker, and enables remote monitoring through the Blynk IoT platform.
-
 ---
 
 ## 📖 Overview
