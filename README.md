@@ -2,7 +2,6 @@
 
 > An intelligent IoT-based traffic management system that dynamically controls traffic signals using real-time vehicle density, prioritizes emergency vehicles, operates a smart speed breaker, and enables remote monitoring through the Blynk IoT platform.
 ---
-
 ## 📖 Overview
 
 Traffic congestion and delayed emergency response are major problems in modern cities. Traditional traffic signals operate on fixed timings and cannot adapt to real-time traffic conditions.
