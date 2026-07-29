@@ -15,7 +15,6 @@ The system:
 - Gives emergency vehicles priority
 - Controls an automatic smart speed breaker
 - Allows remote monitoring through the Blynk IoT App
-
 ---
 
 # ✨ Features
