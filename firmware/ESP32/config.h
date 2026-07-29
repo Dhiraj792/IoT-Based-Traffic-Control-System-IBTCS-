@@ -9,7 +9,6 @@
 #define SOUND_PIN 4
 
 #define WIFI_LED 2
-
 #define BAUD_RATE 115200
 
 #define EMERGENCY_CLEAR_TIME 30000
