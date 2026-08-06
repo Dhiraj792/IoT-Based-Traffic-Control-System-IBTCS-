@@ -16,7 +16,6 @@ The system:
 - Controls an automatic smart speed breaker
 - Allows remote monitoring through the Blynk IoT App
 ---
-
 # ✨ Features
 
 ✅ Adaptive Traffic Signal Control
